@@ -1,6 +1,14 @@
 # ESP32-Touch-Screen-Games
 
-Play Tic Tac Toe / Four In A Row with 2 ESP32 modules (ESP-MESH)
+Play Tic Tac Toe 
+
+Four In A Row
+
+Memory Game
+
+Four in A Row Falling Coins
+
+with 2 ESP32 modules (ESP-MESH)
 
 Only 2x  ESP32 modules and 2x  240x320 TFT touch screens.
 
