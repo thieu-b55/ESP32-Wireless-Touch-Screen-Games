@@ -1,5 +1,13 @@
 # ESP32-Touch-Screen-Games
 
+*** UPDATE 09-2023 ***
+
+For more games but with a 480x320 tft touch screen instead of a 240x320 tft touch screen see:
+
+https://github.com/thieu-b55/ESP32-wireless-game-console-MESH-network
+
+*** *** *** *** *** ***
+
 Play Tic Tac Toe 
 
 Four In A Row
